@@ -1,0 +1,6 @@
+{
+  "name": "CallCode",
+  "description": "Interactive calisthenics workout counter for software engineers waiting for AI tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
